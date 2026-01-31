@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: rick-morty-bff-project
+
+server:
+  port: 8080
+
+rickmorty:
+  api:
+    url: https://rickandmortyapi.com/api
