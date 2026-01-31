@@ -3,11 +3,11 @@
 Back-end Java atuando como BFF, consumindo a API pública do Rick and Morty.
 
 ## Tecnologias
-- Java 17
+- Java 17.0.18
 - Spring Boot
 - Spring Cache
 - Maven
 
 ## Como rodar
 ```bash
-mvn spring-boot:run
+.\mvnw spring-boot:run
